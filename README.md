@@ -1,1 +1,1 @@
-Script that converts google travel sheet into excel format and prints. Also inputs data from google sheet into seperate excel file and prints.
+Script that converts google travel sheet into excel format and prints. Also inputs data from google sheet into seperate excel file and prints. Used at current position to automate file transformation when printing mileage to turn in. 
